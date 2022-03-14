@@ -1,8 +1,8 @@
 # stopwatch
 
 This is my study project that i learn from internet.
-I crafted an stopwatch application, using html, javascript, and css technology
-this is just ordinary stopwatch. :smile_cat:
+I crafted an stopwatch application, using html, javascript, and css technology.
+This is just ordinary stopwatch. :smile_cat:
 
 ## 🚀 Quick start
 1.  **Step 1.**
